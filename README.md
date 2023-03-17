@@ -1,4 +1,4 @@
-#Instructions add by Xu Hao
+# Instructions add by Xu Hao
 
 ## Download ckpt and config file from here
 https://www.mediafire.com/folder/fcvtkn21j57bb/TalkingHead_Update
