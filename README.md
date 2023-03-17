@@ -1,3 +1,13 @@
+#Instructions add by Xu Hao
+
+## Download ckpt and config file from here
+https://www.mediafire.com/folder/fcvtkn21j57bb/TalkingHead_Update
+
+## Run Demo with This Command
+```bash
+python demo.py --config config/vox-256-spade.yaml --checkpoint checkpoints/00000189-checkpoint.pth.tar --source_image assets/source_rect.jpg --driving_video assets/driving_rect.mov --relative --adapt_scale --find_best_frame --result_video result.mp4
+```
+
 # One-Shot Free-View Neural Talking Head Synthesis
 Unofficial pytorch implementation of paper "One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing".  
 
